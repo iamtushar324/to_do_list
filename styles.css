@@ -1,0 +1,47 @@
+.con{
+    padding: 30px;
+    margin: 40px auto 0 auto;
+    height: 600px;
+    width: 60%;
+
+}
+
+h1 {
+    background-color: blueviolet;
+    text-align: center;
+    margin: 30px auto 40px auto ;
+    cursor:default;
+
+}
+
+#inputbox {
+    width: 50%;
+    border-radius: 10px;
+    border: solid 1px black;
+    padding-left: 20px;
+}
+
+#inputcon {
+    border:solid 1px black;
+    padding: 20px;
+}
+
+li {
+    padding: 10px;
+    list-style: none;
+    margin: 9px;
+    border: solid 1px black;
+    box-shadow: 3px 3px 12px grey;
+    text-align: center;
+    font-size: 2em;
+    /* text-decoration: line-through; */
+    cursor: default;
+}
+
+li:hover {
+    box-shadow: 5px 5px 20px grey;
+}
+
+li:active{
+    background-color:rgb(220, 236, 243);
+}
