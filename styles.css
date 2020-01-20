@@ -6,6 +6,26 @@
 
 }
 
+@media screen and max-width(500px){
+.con
+{
+
+padding:5px;
+margin :5px;
+
+
+
+
+}
+
+
+
+
+
+}
+
+
+
 h1 {
     background-color: blueviolet;
     text-align: center;
