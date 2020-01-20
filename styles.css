@@ -6,21 +6,16 @@
 
 }
 
-@media screen and max-width(500px){
+@media screen and (max-width : 500px){
 .con
 {
 
 padding:5px;
 margin :5px;
 
-
-
+width: 90%;
 
 }
-
-
-
-
 
 }
 
